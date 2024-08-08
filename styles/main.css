@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a.navbar-item.is-active {
+    color: #900028;
+}
+
+a.navbar-item:hover {
+    color: #5A0414;
+}
+
+
+.read {
+    color: #006D8F;
+    font-weight: 500;
+}
+
+.homework {
+    color: #008F12;
+    font-weight: 500;
+}
+
+.due {
+    color: #E60041;
+    font-weight: 500;
+}
+
+
+.link {
+    color: #900028;
+}
+
+.link:hover {
+    color: #5A0414;
+}
+
+h4 {
+    color: #5A0414;
+    font-size: 2rem;
+    margin: 15px 0;
+    font-weight: 500;
+}
+
+
+h5 {
+    color: #5A0414;
+    font-weight: 500;
+}
